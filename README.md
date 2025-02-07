@@ -1,5 +1,5 @@
 🚀 MERN Stack Developer | Building Scalable & User-Friendly Web Apps | Tech Enthusiast 💡
-![MERN Stack Developer](https://your-image-url.com)
+![MERN Stack Developer](https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 
 
 
