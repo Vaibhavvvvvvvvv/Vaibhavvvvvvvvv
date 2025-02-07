@@ -1,7 +1,6 @@
-🚀 MERN Stack Developer | Building Scalable & User-Friendly Web Apps | Tech Enthusiast 💡
 ![MERN Stack Developer](https://media.giphy.com/media/xgs4XMMjopd1S/giphy.gif)
 
-
+🚀 MERN Stack Developer | Building Scalable & User-Friendly Web Apps | Tech Enthusiast 💡
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_vaibhav_777__/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vaibhav202002) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25589949) 
